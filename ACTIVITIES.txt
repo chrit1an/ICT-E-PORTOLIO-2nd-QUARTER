@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>ACTIVITIES></title></head>
+<style type="text/css">
+
+.lol {width: 30% ;height: auto;text-align: center;}
+
+.container{height:100vh;background: linear-gradient(50deg, #FF5733,#6495ED);background-size: 300% 300%;animation: color 12s ease-in-out infinite;
+
+
+@keyframes color{0%{background-position: 0 60%;}70%{background-position: 150% 60%;}20%{background-position: 0 70%;}}
+</style>
+<body>
+<link rel="stylesheet" type="text/css">
+<p>There are events that are memorable or important just like the Intramurals 24'-25" and Cluster Meet 24'-25"</p>
+<div class="container">
+</div>
+</body>
+</html>
